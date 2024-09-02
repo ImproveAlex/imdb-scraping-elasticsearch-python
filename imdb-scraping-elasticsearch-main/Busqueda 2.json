@@ -1,0 +1,275 @@
+{
+"took": 26,
+"timed_out": false,
+"_shards": {
+"total": 2,
+"successful": 2,
+"skipped": 0,
+"failed": 0
+},
+"hits": {
+"total": {
+"value": 1922,
+"relation": "eq"
+},
+"max_score": null,
+"hits": [ ]
+},
+"aggregations": {
+"directors_duplicate": {
+"doc_count_error_upper_bound": 3,
+"sum_other_doc_count": 1906,
+"buckets": [
+{
+"key": "Sammo Kam-Bo Hung",
+"doc_count": 10
+}
+,
+{
+"key": "Ishirô Honda",
+"doc_count": 8
+}
+,
+{
+"key": "Albert Pyun",
+"doc_count": 7
+}
+,
+{
+"key": "Hark Tsui",
+"doc_count": 7
+}
+,
+{
+"key": "Walter Hill",
+"doc_count": 7
+}
+,
+{
+"key": "Chia-Liang Liu",
+"doc_count": 6
+}
+,
+{
+"key": "Clint Eastwood",
+"doc_count": 6
+}
+,
+{
+"key": "John Woo",
+"doc_count": 6
+}
+,
+{
+"key": "Kunihiko Yuyama",
+"doc_count": 6
+}
+,
+{
+"key": "Mark Atkins",
+"doc_count": 6
+}
+,
+{
+"key": "Roland Emmerich",
+"doc_count": 6
+}
+,
+{
+"key": "Takashi Miike",
+"doc_count": 6
+}
+,
+{
+"key": "Corey Yuen",
+"doc_count": 5
+}
+,
+{
+"key": "J. Lee Thompson",
+"doc_count": 5
+}
+,
+{
+"key": "Johnnie To",
+"doc_count": 5
+}
+,
+{
+"key": "Kenji Misumi",
+"doc_count": 5
+}
+,
+{
+"key": "Lauren Montgomery",
+"doc_count": 5
+}
+,
+{
+"key": "Paul Ziller",
+"doc_count": 5
+}
+,
+{
+"key": "Sergio Corbucci",
+"doc_count": 5
+}
+,
+{
+"key": "Siu-Tung Ching",
+"doc_count": 5
+}
+,
+{
+"key": "Tom Clegg",
+"doc_count": 5
+}
+,
+{
+"key": "Umberto Lenzi",
+"doc_count": 5
+}
+,
+{
+"key": "Wei Lo",
+"doc_count": 5
+}
+,
+{
+"key": "Woo-Ping Yuen",
+"doc_count": 5
+}
+,
+{
+"key": "Andrew Lau",
+"doc_count": 4
+}
+,
+{
+"key": "Antoine Fuqua",
+"doc_count": 4
+}
+,
+{
+"key": "Benny Chan",
+"doc_count": 4
+}
+,
+{
+"key": "Brett Ratner",
+"doc_count": 4
+}
+,
+{
+"key": "Enzo G. Castellari",
+"doc_count": 4
+}
+,
+{
+"key": "Gérard Pirès",
+"doc_count": 4
+}
+,
+{
+"key": "Jackie Chan",
+"doc_count": 4
+}
+,
+{
+"key": "John Badham",
+"doc_count": 4
+}
+,
+{
+"key": "John Guillermin",
+"doc_count": 4
+}
+,
+{
+"key": "Kinji Fukasaku",
+"doc_count": 4
+}
+,
+{
+"key": "Lana Wachowski",
+"doc_count": 4
+}
+,
+{
+"key": "Lilly Wachowski",
+"doc_count": 4
+}
+,
+{
+"key": "Lloyd Bacon",
+"doc_count": 4
+}
+,
+{
+"key": "Michael Bay",
+"doc_count": 4
+}
+,
+{
+"key": "Michael Mann",
+"doc_count": 4
+}
+,
+{
+"key": "Michael Winner",
+"doc_count": 4
+}
+,
+{
+"key": "Paul W.S. Anderson",
+"doc_count": 4
+}
+,
+{
+"key": "Peter Hyams",
+"doc_count": 4
+}
+,
+{
+"key": "Ram Gopal Varma",
+"doc_count": 4
+}
+,
+{
+"key": "Roger Donaldson",
+"doc_count": 4
+}
+,
+{
+"key": "Russell Mulcahy",
+"doc_count": 4
+}
+,
+{
+"key": "Sam Liu",
+"doc_count": 4
+}
+,
+{
+"key": "Sam Peckinpah",
+"doc_count": 4
+}
+,
+{
+"key": "Sergiu Nicolaescu",
+"doc_count": 4
+}
+,
+{
+"key": "Terence Young",
+"doc_count": 4
+}
+,
+{
+"key": "Wilson Yip",
+"doc_count": 4
+}
+]
+}
+}
+}
